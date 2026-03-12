@@ -77,6 +77,10 @@ Profissional de tecnologia com sólida experiência em Telecomunicações, Supor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyIver&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Language Metrics" width="48%">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnnyIver&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area_color=58a6ff&area=true&hide_border=true" alt="Deployment Activity" width="100%">
+</div>
+
 <br>
 
 ### 🖥️ Latest Activity Log
