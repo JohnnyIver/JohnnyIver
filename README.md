@@ -12,14 +12,14 @@
 
 ---
 
-### <img src="https://riskofrain2.wiki.gg/images/R/Radar_Scanner.png" width="30"> About Me
+### <img src="assets/icons/Commander.webp" width="30"> About Me
 > `[SYSTEM STATUS]: Fully Operational`
 
 Profissional de tecnologia com sólida experiência em Telecomunicações, Suporte Técnico e Infraestrutura de TI. Com vasta experiência em Observabilidade e SRE, focado em monitoramento (Zabbix/Grafana), segurança de sistemas (Wazuh/CrowdStrike) e administração Linux. Comprometido com a automação de processos e a construção de infraestruturas resilientes e seguras.
 
 <br>
 
-### <img src="https://riskofrain2.wiki.gg/images/L/Lens-Maker%27s_Glasses.png" width="30"> Loadout (Tech Stack)
+### <img src="assets/icons/Lens_Maker_s_Glasses.webp" width="30"> Loadout (Tech Stack)
 
 ![Zabbix](https://img.shields.io/badge/-Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -36,7 +36,7 @@ Profissional de tecnologia com sólida experiência em Telecomunicações, Supor
 
 <br>
 
-### <img src="https://riskofrain2.wiki.gg/images/T/Topaz_Brooch.png" width="30"> System Logs: Certifications
+### <img src="assets/icons/Topaz_Brooch.webp" width="30"> System Logs: Certifications
 *Marcos de conhecimento e badges de sistema desbloqueados:*
 
 <details>
@@ -71,7 +71,7 @@ Profissional de tecnologia com sólida experiência em Telecomunicações, Supor
 
 <br>
 
-### <img src="https://riskofrain2.wiki.gg/images/C/Chronobauble.png" width="30"> System Telemetry
+### <img src="assets/icons/Chronobauble.webp" width="30"> System Telemetry
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnnyIver&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="System Metrics" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyIver&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Language Metrics" width="48%">
@@ -83,7 +83,7 @@ Profissional de tecnologia com sólida experiência em Telecomunicações, Supor
 
 <br>
 
-### <img src="https://riskofrain2.wiki.gg/images/B/Backup_Magazine.png" width="30"> Latest Activity Log
+### <img src="assets/icons/Backup_Magazine.webp" width="30"> Latest Activity Log
 > `[LOG]: Syncing with GitHub Event Stream...`
 
 <!--START_SECTION:activity-->
@@ -98,5 +98,5 @@ Profissional de tecnologia com sólida experiência em Telecomunicações, Supor
 
 <div align="center">
   <sub>Artifacts Unlocked: Monitoring | Automation | Linux | Security </sub><br>
-  <sub><i>"Llovió, con lentitud poderosa."</i> <img src="https://riskofrain2.wiki.gg/images/F/Fuel_Cell.png" width="15"></sub>
+  <sub><i>"Llovió, con lentitud poderosa."</i> <img src="assets/icons/Fuel_Cell.webp" width="15"></sub>
 </div>
