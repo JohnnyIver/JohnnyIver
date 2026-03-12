@@ -19,7 +19,7 @@ Profissional de tecnologia com sólida experiência em Telecomunicações, Supor
 
 <br>
 
-### <img src="assets/icons/Lens_Maker_s_Glasses.webp" width="30"> Loadout (Tech Stack)
+### <img src="assets/icons/Lens_Makers_Glasses.webp" width="30"> Loadout (Tech Stack)
 
 ![Zabbix](https://img.shields.io/badge/-Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
