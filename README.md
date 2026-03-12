@@ -5,23 +5,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Surviving+the+storm+of+production+systems.;Every+system+eventually+becomes+a+boss+fight.;%22Llovi%C3%B3%2C+con+lentitud+poderosa.%22" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/viniciuscosta2"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/JohnnyIver"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
+
 ---
 
 ### 📡 About Me
-> `[SYSTEM LOG]: Loadout Initialized...`
+> `[SYSTEM STATUS]: Fully Operational`
 
-Profissional de tecnologia com sólida experiência em Telecomunicações, Suporte Técnico e Infraestrutura de TI. Com vasta experiência em Observabilidade e SRE, focado em monitoramento (Zabbix/Grafana), segurança de sistemas (Wazuh/CrowdStrike) e administração Linux. Comprometido com a automação de processos e a construção de infraestruturas resilientes e seguras, sempre transformando dados em inteligência operacional.
+Profissional de tecnologia com sólida experiência em Telecomunicações, Suporte Técnico e Infraestrutura de TI. Com vasta experiência em Observabilidade e SRE, focado em monitoramento (Zabbix/Grafana), segurança de sistemas (Wazuh/CrowdStrike) e administração Linux. Comprometido com a automação de processos e a construção de infraestruturas resilientes e seguras.
 
 <br>
 
-### ⚔️ Loadout
-Abaixo estão as ferramentas e tecnologias que compõem minha stack técnica, organizadas por categoria de execução:
+### ⚔️ Loadout (Tech Stack)
 
-| Primary (Core) | Secondary (Infra) | Utility (Scripts) | Special (Focus) |
-| :--- | :--- | :--- | :--- |
-| **Zabbix** | **Linux Systems** | **Bash / Shell** | **Troubleshooting** |
-| **Wazuh** | **TCP/IP Networks** | **Python** | **SRE / DevOps** |
-| **Observability** | **Fibre Optics** | **PowerShell** | **Vulnerability Mgmt** |
+![Zabbix](https://img.shields.io/badge/-Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-000000?style=flat-square&logo=wazuh&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-000000?style=flat-square&logo=crowdstrike&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 <br>
 
@@ -58,42 +69,24 @@ Abaixo estão as ferramentas e tecnologias que compõem minha stack técnica, or
 </ul>
 </details>
 
-<details>
-<summary><b>Cloud & Specialized Training</b></summary>
-<ul>
-  <li>DPN Technical Specialist & Demo Certification (Datadog)</li>
-  <li>Technical & Support Training (Vicarius)</li>
-  <li>Administrando Banco De Dados (Fundação Bradesco)</li>
-</ul>
-</details>
-
 <br>
 
 ### 📊 System Telemetry
-Métricas de atividade e implantação capturadas diretamente do núcleo de desenvolvimento:
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnnyIver&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="System Metrics" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyIver&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Language Metrics" width="48%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnnyIver&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area_color=58a6ff&area=true&hide_border=true" alt="Deployment Activity" width="100%">
-</div>
-
 <br>
 
-### 🖥️ System Events: Recent Activity
-> `[LOG]: Analyzing upstream development branch...`
+### 🖥️ Latest Activity Log
+> `[LOG]: Syncing with GitHub Event Stream...`
 
-<!-- START_SECTION:activity -->
-| Event ID | Timestamp | Status | Activity Description |
-| :--- | :--- | :--- | :--- |
-| `0x00A1` | `Mar 12, 2026` | `DEPLOYED` | Created official profile repository `JohnnyIver` |
-| `0x00A2` | `Mar 12, 2026` | `UPDATED` | Refined telemetry dashboard aesthetics |
-| `0x00B5` | `Mar 10, 2026` | `ANALYZED` | Integrated Gemini-AI webhooks for incident analysis |
-| `0x00C9` | `Mar 09, 2026` | `PATCHED` | Optimized Zabbix API report generation scripts |
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+1. 💾 Commited to [zabbix- gemini-webhook](https://github.com/JohnnyIver/zabbix-gemini-webhook) - *Refining AI analysis logic*
+2. 🚀 Created repository [JohnnyIver](https://github.com/JohnnyIver/JohnnyIver) - *Official profile deployment*
+3. 🛠️ Updated [zabbix-report-module](https://github.com/JohnnyIver/zabbix-report-module) - *Optimizing SQL queries*
+<!--END_SECTION:activity-->
 
 <br>
 
